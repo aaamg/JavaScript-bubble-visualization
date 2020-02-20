@@ -44,4 +44,4 @@ class Bubble {
 //   ellipse(90, 90, 80, 80);
 // }
 
-//https://editor.p5js.org/ download p5 js libray to work!! 
+//https://editor.p5js.org/ download p5 js libray to work
